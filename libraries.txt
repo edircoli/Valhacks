@@ -1,0 +1,23 @@
+# Libraries suggested by organizers
+
+## ML/DL
+scikit-learn
+tensorflow
+pytorch
+xgboost
+lightgbm
+
+## Data analysis / visualization
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+
+## Geospatial analysis
+geopandas
+folium
+
+## Carbon emission calculation
+olca-ipc #openLCA for Python, needs to download openLCA
+brightway2 #might work as well, without the need to download openLCA
