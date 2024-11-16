@@ -1,0 +1,22 @@
+name: suggested_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - scikit-learn
+  - tensorflow
+  - pytorch
+  - torchvision
+  - torchaudio
+  - xgboost
+  - lightgbm
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - plotly
+  - geopandas
+  - folium
+  - olca-ipc
+  - brightway2
